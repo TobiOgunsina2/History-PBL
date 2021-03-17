@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/history-pbl/static/css/main.c9e310e3.chunk.css",
+    "main.js": "/history-pbl/static/js/main.0644a516.chunk.js",
+    "main.js.map": "/history-pbl/static/js/main.0644a516.chunk.js.map",
+    "runtime-main.js": "/history-pbl/static/js/runtime-main.80cbb659.js",
+    "runtime-main.js.map": "/history-pbl/static/js/runtime-main.80cbb659.js.map",
+    "static/js/2.119f1ea5.chunk.js": "/history-pbl/static/js/2.119f1ea5.chunk.js",
+    "static/js/2.119f1ea5.chunk.js.map": "/history-pbl/static/js/2.119f1ea5.chunk.js.map",
+    "static/js/3.9762fa1a.chunk.js": "/history-pbl/static/js/3.9762fa1a.chunk.js",
+    "static/js/3.9762fa1a.chunk.js.map": "/history-pbl/static/js/3.9762fa1a.chunk.js.map",
+    "index.html": "/history-pbl/index.html",
+    "static/css/main.c9e310e3.chunk.css.map": "/history-pbl/static/css/main.c9e310e3.chunk.css.map",
+    "static/js/2.119f1ea5.chunk.js.LICENSE.txt": "/history-pbl/static/js/2.119f1ea5.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/history-pbl/static/media/lead_hoyos_bildarchivaustria.at_.b786e1fb.jpg",
+    "static/media/logo.6ce24c58.svg": "/history-pbl/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.80cbb659.js",
+    "static/js/2.119f1ea5.chunk.js",
+    "static/css/main.c9e310e3.chunk.css",
+    "static/js/main.0644a516.chunk.js"
+  ]
+}
