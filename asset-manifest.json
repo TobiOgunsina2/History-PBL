@@ -1,24 +1,25 @@
 {
   "files": {
     "main.css": "/history-pbl/static/css/main.c9e310e3.chunk.css",
-    "main.js": "/history-pbl/static/js/main.0644a516.chunk.js",
-    "main.js.map": "/history-pbl/static/js/main.0644a516.chunk.js.map",
-    "runtime-main.js": "/history-pbl/static/js/runtime-main.80cbb659.js",
-    "runtime-main.js.map": "/history-pbl/static/js/runtime-main.80cbb659.js.map",
-    "static/js/2.119f1ea5.chunk.js": "/history-pbl/static/js/2.119f1ea5.chunk.js",
-    "static/js/2.119f1ea5.chunk.js.map": "/history-pbl/static/js/2.119f1ea5.chunk.js.map",
-    "static/js/3.9762fa1a.chunk.js": "/history-pbl/static/js/3.9762fa1a.chunk.js",
-    "static/js/3.9762fa1a.chunk.js.map": "/history-pbl/static/js/3.9762fa1a.chunk.js.map",
+    "main.js": "/history-pbl/static/js/main.4d49824d.chunk.js",
+    "main.js.map": "/history-pbl/static/js/main.4d49824d.chunk.js.map",
+    "runtime-main.js": "/history-pbl/static/js/runtime-main.53b1f304.js",
+    "runtime-main.js.map": "/history-pbl/static/js/runtime-main.53b1f304.js.map",
+    "static/js/2.af4a57ed.chunk.js": "/history-pbl/static/js/2.af4a57ed.chunk.js",
+    "static/js/2.af4a57ed.chunk.js.map": "/history-pbl/static/js/2.af4a57ed.chunk.js.map",
     "index.html": "/history-pbl/index.html",
     "static/css/main.c9e310e3.chunk.css.map": "/history-pbl/static/css/main.c9e310e3.chunk.css.map",
-    "static/js/2.119f1ea5.chunk.js.LICENSE.txt": "/history-pbl/static/js/2.119f1ea5.chunk.js.LICENSE.txt",
+    "static/js/2.af4a57ed.chunk.js.LICENSE.txt": "/history-pbl/static/js/2.af4a57ed.chunk.js.LICENSE.txt",
     "static/media/index.css": "/history-pbl/static/media/lead_hoyos_bildarchivaustria.at_.b786e1fb.jpg",
-    "static/media/logo.6ce24c58.svg": "/history-pbl/static/media/logo.6ce24c58.svg"
+    "static/media/Gas WW1 - Weapons.31692693.jpg": "/history-pbl/static/media/Gas WW1 - Weapons.31692693.jpg",
+    "static/media/Machine Gun - Weapon.2506fd0d.jpg": "/history-pbl/static/media/Machine Gun - Weapon.2506fd0d.jpg",
+    "static/media/Screenshot 2021-03-08 221558.e913a7d2.png": "/history-pbl/static/media/Screenshot 2021-03-08 221558.e913a7d2.png",
+    "static/media/flamethrower-weapons.cff1f24b.jpg": "/history-pbl/static/media/flamethrower-weapons.cff1f24b.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.80cbb659.js",
-    "static/js/2.119f1ea5.chunk.js",
+    "static/js/runtime-main.53b1f304.js",
+    "static/js/2.af4a57ed.chunk.js",
     "static/css/main.c9e310e3.chunk.css",
-    "static/js/main.0644a516.chunk.js"
+    "static/js/main.4d49824d.chunk.js"
   ]
 }
